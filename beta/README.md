@@ -3,7 +3,7 @@ Beta
 
 Beta version is always updated with the same download link. If you encounter any issue please let us know. Log file is always helpful (Menu->Feedback->Send log).
 
-Download
+[Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
 v3.3.8 beta
 * Added: Rename tag (Feedly)
