@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.3.8 beta
 * Added: Rename tag (Feedly)
 * Improved: Synchronization (Feedly, The Old Reader)
+* Fixed: Youtube video pages
 * Fixed: Small bugs
 
 v3.3.7 beta
