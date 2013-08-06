@@ -9,6 +9,7 @@ v3.3.8 beta
 * Added: Rename tag (Feedly)
 * Improved: Synchronization (Feedly, The Old Reader)
 * Fixed: Youtube video pages
+* Fixed: Excluded streams issue
 * Fixed: Small bugs
 
 v3.3.7 beta
