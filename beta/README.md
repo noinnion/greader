@@ -10,6 +10,7 @@ v3.3.8 beta
 * Improved: Synchronization (Feedly, The Old Reader)
 * Fixed: Youtube video pages
 * Fixed: Excluded streams issue
+* Fixed: Read items not saved after system closes app
 * Fixed: Small bugs
 
 v3.3.7 beta
