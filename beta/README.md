@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.4.1 beta
 * Fixed: Tablet issues
+* Fixed: Offline encoding issue
 
 v3.3.9 beta
 * Fixed: Cache feed images
