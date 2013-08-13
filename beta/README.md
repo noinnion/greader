@@ -5,6 +5,9 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.4.1 beta
+* Fixed: Tablet issues
+
 v3.3.9 beta
 * Fixed: Cache feed images
 * Fixed: List seperator
