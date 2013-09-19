@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.4.2 beta
 * New: Theme Sepia
 * Fixed: Feedly login issue on pre-Honeycomp devices
+* Fixed: The Old Reader synchronization
 * Fixed: Image loading
 * Fixed: Voice reading
 
