@@ -9,6 +9,7 @@ v3.4.2 beta
 * New: Theme Sepia
 * Fixed: Feedly login issue on pre-Honeycomp devices
 * Fixed: Image loading
+* Fixed: Voice reading
 
 v3.4.1 beta
 * Fixed: Tablet issues
