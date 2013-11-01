@@ -5,6 +5,10 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.4.3 beta
+* New: Youtube player
+* Improved: User interface
+
 v3.4.2 beta
 * New: Theme Sepia
 * Fixed: Feedly login issue on pre-Honeycomp devices
