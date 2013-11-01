@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.4.3 beta
 * New: Youtube player
 * Improved: User interface
+* Fixed: Article time issue
 
 v3.4.2 beta
 * New: Theme Sepia
