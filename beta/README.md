@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.4.3 beta
 * New: Youtube player
 * New: User Agent per subscription
+* Improved: Feedly image integration
 * Improved: User interface
 * Fixed: Article time issue
 
