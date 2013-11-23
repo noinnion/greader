@@ -10,6 +10,7 @@ v3.4.3 beta
 * New: User Agent per subscription
 * Improved: Feedly image integration
 * Improved: User interface
+* Fixed: Share to  Twitter
 * Fixed: Article time issue
 
 v3.4.2 beta
