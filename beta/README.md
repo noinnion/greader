@@ -5,6 +5,9 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.5.1 beta
+* Fixed: Bug fixes for last update
+
 v3.4.3 beta
 * New: Youtube player
 * New: User Agent per subscription
