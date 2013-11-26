@@ -5,6 +5,9 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.5.2 beta
+* Improved: Support RTL
+
 v3.5.1 beta
 * Improved: Option for loading Youtuve video
 * Fixed: Share to Facebook
