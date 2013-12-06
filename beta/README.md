@@ -5,6 +5,8 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.5.4 beta
+
 v3.5.3 beta
 * Fixed: Synchronization issue
 * Fixed: Crashes in Clear Cache
