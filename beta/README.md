@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.5.4 beta
 * Improved: Performance
+* Fixed: RTL bold text
 
 v3.5.3 beta
 * Fixed: Synchronization issue
