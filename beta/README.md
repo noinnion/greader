@@ -9,6 +9,7 @@ v3.5.4 beta
 * Improved: Performance
 * Fixed: The Old Reader sync
 * Fixed: Share with Twitter
+* Fixed: Manage sources issue
 * Fixed: RTL bold text
 
 v3.5.3 beta
