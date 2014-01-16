@@ -6,7 +6,9 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
 v3.5.6 beta
+* Fixed: Send to Pocket
 * Fixed: Article timestamp
+* Fixed: Apply changes immediately
 
 v3.5.4 beta
 * Improved: Performance
