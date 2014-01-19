@@ -11,6 +11,7 @@ v3.5.6 beta
 * Fixed: Article timestamp
 * Fixed: Apply changes immediately
 * Fixed: Video podcast sync
+* Fixed: Search view text color
 
 v3.5.4 beta
 * Improved: Performance
