@@ -10,6 +10,7 @@ v3.5.6 beta
 * Fixed: Add subscription in The Old Reader
 * Fixed: Article timestamp
 * Fixed: Apply changes immediately
+* Fixed: Video podcast sync
 
 v3.5.4 beta
 * Improved: Performance
