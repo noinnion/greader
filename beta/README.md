@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.5.6 beta
 * Fixed: Send to Pocket
+* Fixed: Add subscription in The Old Reader
 * Fixed: Article timestamp
 * Fixed: Apply changes immediately
 
