@@ -14,6 +14,7 @@ v3.5.6 beta
 * Fixed: Video podcast sync
 * Fixed: Search view text color
 * Fixed: Save article position
+* Fixed: Find subscription from url
 
 v3.5.4 beta
 * Improved: Performance
