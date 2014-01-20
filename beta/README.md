@@ -13,6 +13,7 @@ v3.5.6 beta
 * Fixed: Apply changes immediately
 * Fixed: Video podcast sync
 * Fixed: Search view text color
+* Fixed: Save article position
 
 v3.5.4 beta
 * Improved: Performance
