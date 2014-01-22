@@ -9,6 +9,7 @@ v3.5.6 beta
 * New: HTTPS support
 * Improved: Load websites faster
 * Improved: Preference backup includes Search filters
+* Changed: Item list loads 50 items instead of 100 because of performance reason.
 * Fixed: Send to Pocket
 * Fixed: Add subscription in The Old Reader
 * Fixed: Article timestamp
