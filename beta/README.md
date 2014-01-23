@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.5.7 beta
 * Improved: time format same as system setting
+* Fixed: Thumbnail on large widget
 
 v3.5.6 beta
 * New: HTTPS support
