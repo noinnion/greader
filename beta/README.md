@@ -6,8 +6,10 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
 v3.5.7 beta
+* New: Use gReader without a service (data are saved locally)
 * Improved: time format same as system setting
 * Fixed: Thumbnail on large widget
+* Fixed: Pocket login issue
 
 v3.5.6 beta
 * New: HTTPS support
