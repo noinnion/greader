@@ -7,7 +7,8 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.5.7 beta
 * New: Use gReader without a service (data are saved locally)
-* Improved: time format same as system setting
+* Improved: Text wrap for KitKat
+* Improved: Time format same as system setting
 * Fixed: Thumbnail on large widget
 * Fixed: Pocket login issue
 
