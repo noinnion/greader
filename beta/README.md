@@ -7,7 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.5.7 beta
 * New: Use gReader as a RSS Reader without a service (data are saved locally)
-* Improved: Widgets: Support background color and opacity, new layout
+* Improved: Widgets (Pro): Support background color and opacity, text size, new layout (http://greader.co/widgets)
 * Improved: Text wrapping on KitKat
 * Improved: Time format same as system setting
 * Fixed: Thumbnail on large widget
