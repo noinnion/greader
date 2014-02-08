@@ -9,7 +9,6 @@ v3.5.7 beta
 * New: Use gReader as a RSS Reader without a service (data are saved locally)
 * Improved: Widgets (Pro): Support background color and opacity, text size, new layout (http://greader.co/widgets)
 * Improved: Text wrapping on KitKat
-* Improved: Simplified offline cache
 * Improved: Time format same as system setting
 * Fixed: Thumbnail on large widget
 * Fixed: Pocket login issue
