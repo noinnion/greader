@@ -6,6 +6,7 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
 v3.6.1 beta
+* Improved: Show summary option for ticker widget
 * Fixed: Offline reading issue
 * Fixed: Widget issues
 
