@@ -5,11 +5,17 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.6.1 beta
+* Fixed: Small issues
+
+
 v3.5.7 beta
 * New: Use gReader as a RSS Reader without a service (data are saved locally)
+* New: Article font size, font type, text alignment (Article View: Menu->Fonts)
 * Improved: Widgets (Pro): Support background color and opacity, text size, new layout (http://greader.co/widgets)
 * Improved: Text wrapping on KitKat
 * Improved: Time format same as system setting
+* Fixed: Login issue on Feedly
 * Fixed: Thumbnail on large widget
 * Fixed: Pocket login issue
 
