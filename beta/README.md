@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.6.2 beta
 * Added: Widget 4x1
 * Improved: Offline reading simplified
+* Fixed: Mark as read for filter
 
 v3.6.1 beta
 * Improved: Show summary option for ticker widget
