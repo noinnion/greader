@@ -8,6 +8,7 @@ Beta version is always updated with the same download link. If you encounter any
 v3.6.2 beta
 * Added: Widget 4x1
 * Added: New options for Tasker plugin: Download offline for unread items, read aloud
+* Added: Import OPML for RSS Reader
 * Improved: Offline reading simplified
 * Fixed: Mark as read for filter
 
