@@ -11,6 +11,7 @@ v3.6.2 beta
 * Added: Import OPML for RSS Reader
 * Improved: Offline reading simplified
 * Fixed: Mark as read for filter
+* Fixed: Widget issues
 
 v3.6.1 beta
 * Improved: Show summary option for ticker widget
