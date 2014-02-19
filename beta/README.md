@@ -5,6 +5,9 @@ Beta version is always updated with the same download link. If you encounter any
 
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
+v3.6.3 beta
+* Fixed: Twitter sharing
+
 v3.6.2 beta
 * Added: Widget 4x1
 * Added: New options for Tasker plugin: Download offline for unread items, read aloud
