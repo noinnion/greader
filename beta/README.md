@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.6.3 beta
 * Fixed: Twitter sharing
+* Fixed: Widget issue
 
 v3.6.2 beta
 * Added: Widget 4x1
