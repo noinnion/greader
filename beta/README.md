@@ -7,6 +7,7 @@ Beta version is always updated with the same download link. If you encounter any
 
 v3.6.3 beta
 * Improved: New option for TTS: Read title, Mark read
+* Fixed: The Old Reader login issue
 * Fixed: Twitter sharing
 * Fixed: Widget issue
 
