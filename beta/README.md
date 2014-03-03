@@ -6,7 +6,9 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 
 v3.6.4 beta
+* Improved: Videos on webview
 * Fixed: Language issues
+* Fixed: Offline issue
 
 v3.6.3 beta
 * Improved: New option for TTS: Read title, Mark read
