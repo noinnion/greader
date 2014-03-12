@@ -3,8 +3,11 @@ Beta
 
 Beta version is always updated with the same download link. If you encounter any issue please let us know. Log file is always helpful (Menu->Feedback->Send log).
 
-[Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)  
+[Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 If you get parse error while installing the apk try the above download link.
+
+v3.6.5 beta
+* Fixed: Read aloud issue
 
 v3.6.4 beta
 * Improved: Videos on webview
