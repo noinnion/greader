@@ -8,6 +8,8 @@ If you get parse error while installing the apk try the above download link.
 
 v3.6.5 beta
 * Fixed: Read aloud issue
+* Improved: Action buttons in notification for Voice Reading
+* Improved: Action buttons in notification for Podcast
 
 v3.6.4 beta
 * Improved: Videos on webview
