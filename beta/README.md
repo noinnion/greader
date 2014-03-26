@@ -8,6 +8,7 @@ If you get parse error while installing the apk try the above download link.
 
 v3.6.7 beta
 * Fixed: Chinese language issue
+* Fixed: Offline encoding issue
 * Fixed: Image fit issue
 
 v3.6.6 beta
