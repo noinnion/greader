@@ -6,6 +6,9 @@ Beta version is always updated with the same download link. If you encounter any
 [Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
 If you get parse error while installing the apk try the above download link.
 
+v3.6.8 beta
+* New: Create shortcut for subscription/tag
+
 v3.6.7 beta
 * Fixed: Chinese language issue
 * Fixed: Offline encoding issue
