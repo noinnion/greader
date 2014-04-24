@@ -10,7 +10,8 @@ v3.6.8 beta
 * New: Create shortcut for subscription/tag
 * New: New Settings for Tasker Plugin: Synchronization, Offline Usage, Notification, Theme
 * New: OPML Export (Manage Sources)
-* Fixws: OPML Import
+* Improved: RSS Reader (local) loads podcast information
+* Fixed: OPML Import
 
 v3.6.7 beta
 * Fixed: Chinese language issue
