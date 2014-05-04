@@ -8,6 +8,7 @@ If you get parse error while installing the apk try the above download link.
 
 v3.6.8 beta
 * New: Theme Blue and Green
+* New: Custom notification for feeds
 * New: Create shortcut for subscription/tag
 * New: New Settings for Tasker Plugin: Synchronization, Offline Usage, Notification, Theme
 * New: OPML Export (Manage Sources)
