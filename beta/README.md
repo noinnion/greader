@@ -14,6 +14,7 @@ v3.6.8 beta
 * New: OPML Export (Manage Sources)
 * Improved: RSS Reader (local) loading feed information
 * Improved: OPML Import (RSS Reader only)
+* Improved: Sort by feed now sorts like Manage sources
 
 v3.6.7 beta
 * Fixed: Chinese language issue
