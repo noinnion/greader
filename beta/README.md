@@ -7,13 +7,13 @@ Beta version is always updated with the same download link. If you encounter any
 If you get parse error while installing the apk try the above download link.
 
 v3.6.8 beta
-* New: Theme Blue and Green
-* New: Custom notification for feeds
-* New: Create shortcut for subscription/tag
-* New: New Settings for Tasker Plugin: Synchronization, Offline Usage, Notification, Theme
+* New: 2 new beatiful themes: Blue and Green
+* New: Custom notification for feeds (Pro)
+* New: Create shortcut for subscriptions/tags
+* New: Change settings in Tasker : Synchronization, Offline Usage, Notification, Theme
 * New: OPML Export (Manage Sources)
-* Improved: RSS Reader (local) loads podcast information
-* Fixed: OPML Import
+* Improved: RSS Reader (local) loading feed information
+* Improved: OPML Import (RSS Reader only)
 
 v3.6.7 beta
 * Fixed: Chinese language issue
