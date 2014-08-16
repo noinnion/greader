@@ -1,16 +1,16 @@
 gReader is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support. Read all your rss/feed news in one place, where keeping up with your favorite websites is as easy as checking your email. 
 
-More on http://greader.co
+More on http://noinnion.com/greader
 
 NOTES:
 * The Old Reader: To use The Old Reader you need to create a mobile login in TOR settings
 * Please let us know of any issues you encounter via email.
 * If you still get ads: Clear the cache of the market and check the license in gReader again (Menu->More->Check License)
-* Read the FAQ before commenting: http://greader.co/faq
+* Read the FAQ before commenting: http://noinnion.com/greader/support
 * You want to suggest new features or report issues, use the Feedback button.
 * Localization If you are interested in translating gReader to other languages, visit http://crowdin.net/project/greader/
-* Beta: http://greader.co/beta
-* Play Store: https://play.google.com/store/apps/details?id=com.noinnion.android.greader.readerpro
+* Beta: http://noinnion.com/greader/updates
+* Play Store: https://play.google.com/store/apps/details?id=com.noinnion.android.greader.reader
 
 SERVICES:
 * Feedly Cloud: Feedly Cloud is a new way to browse the content of your favorite sites.
