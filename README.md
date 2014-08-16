@@ -3,9 +3,7 @@ gReader is a simple, fast and intuitive feed/rss reader for Android, featuring b
 More on http://noinnion.com/greader
 
 NOTES:
-* The Old Reader: To use The Old Reader you need to create a mobile login in TOR settings
 * Please let us know of any issues you encounter via email.
-* If you still get ads: Clear the cache of the market and check the license in gReader again (Menu->More->Check License)
 * Read the FAQ before commenting: http://noinnion.com/greader/support
 * You want to suggest new features or report issues, use the Feedback button.
 * Localization If you are interested in translating gReader to other languages, visit http://crowdin.net/project/greader/
