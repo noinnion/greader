@@ -3,8 +3,8 @@ Beta
 
 Beta version is always updated with the same download link. If you encounter any issue please let us know. Log file is always helpful (Menu->Feedback->Send log).
 
-[Download](https://github.com/noinnion/greader/blob/master/beta/gReader_beta.apk?raw=true)
-If you get parse error while installing the apk try the above download link.
-
-[Change Log](http://noinnion.com/greader/updates)
-
+v4.3.0_beta: [Download](https://github.com/noinnion/greader/blob/master/beta/gReader-4.3.0_pro-beta.apk?raw=true)
+- Bug fixes and performance improvements
+- Removed Instapaper Mobilizer
+- Improved list item swiping
+- Fixed blank screen
