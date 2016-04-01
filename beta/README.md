@@ -6,6 +6,7 @@ Beta version is always updated with the same download link. If you encounter any
 v4.3.0_beta: [Download](https://github.com/noinnion/greader/blob/master/beta/gReader-4.3.0_pro-beta.apk?raw=true)
 - Bug fixes and performance improvements
 - Added custom tabs
+- Added LG multi windows
 - Removed Instapaper Mobilizer
 - Improved list item swiping
 - Improved settings
