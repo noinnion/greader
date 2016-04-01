@@ -9,6 +9,7 @@ v4.3.0_beta: [Download](https://github.com/noinnion/greader/blob/master/beta/gRe
 - Removed Instapaper Mobilizer
 - Improved list item swiping
 - Improved settings
+- Improved subscription preferences
 - Improved add new subscription
 - Fixed blank screen
 - Fixed display widget thumbnails
