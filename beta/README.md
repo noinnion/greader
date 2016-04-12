@@ -6,7 +6,7 @@ Beta version is always updated with the same download link. If you encounter any
 v4.3.1_beta: [Download](https://github.com/noinnion/greader/blob/master/beta/gReader-4.3.1_pro-beta.apk?raw=true)
 - 3D Touch for thumbnails (long tap on thumbnails to show them immediately, release will close it)
 - Improved list item swiping
-- Improved article view, prevent duplicate images
+- Improved article view, prevent duplicate images, gif issue
 
 v4.3.0_beta: [Download](https://github.com/noinnion/greader/blob/master/beta/gReader-4.3.0_pro-beta.apk?raw=true)
 - Bug fixes and performance improvements
