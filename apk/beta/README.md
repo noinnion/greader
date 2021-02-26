@@ -1,3 +1,6 @@
+5.1.4
+- Fix webview scrolling issues
+
 5.1.3
 - Fix synchronization issues
 - Fix notification sound
